@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">
  <div>
     <h2>Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-    I'm Elizaveta Uvarova, Frontend Developer 💻
+    I'm Azamqulov Musurmon, Frontend Developer 💻
     <br>
     <br>
     <img src="./coder.gif" alt="Coder" width="350">
@@ -31,8 +31,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">About Me 👨🏻‍💻</h2>
 
-<p>I’m currently improving my knowledge and skills in React and Redux</p>
-<p>Also I am looking for a job as a frontend developer (in Yerevan or remotely)</p>
+<p>I’m currently improving my knowledge and skills in React and vue</p>
+<p>Also I am looking for a job as a frontend developer</p>
 
 <h2 align="left">My CV 📄</h2>
 
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">Let's get connected ❤️</h2>
 
-<a href="mailto:uvarovaes2002@gmail.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:azamqulovmusurmon@gmail.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/elizaveta-uvarova42/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_elizabethuv_/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/@elizavetauv" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
+<a href="https://www.instagram.com/@azamqulov_1/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/@azamqulov" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
