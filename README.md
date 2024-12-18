@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">My CV 📄</h2>
 
-<p>You can find my CV <a  href="./CV.pdf">here</a></p>
+<p>You can find my CV <a  href="https://github.com/Azamqulov/my-resume/blob/f3f593c8b657f7b63139d9d9b1316392140d36bc/my%20resume.pdf">here</a></p>
 
 <h2 align="left">Let's get connected ❤️</h2>
 
