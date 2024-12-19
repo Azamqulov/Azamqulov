@@ -40,6 +40,6 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Let's get connected ❤️</h2>
 
 <a href="mailto:azamqulovmusurmon@gmail.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/elizaveta-uvarova42/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/musurmon-azamqulov-9b6000326" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/@azamqulov_1/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/@azamqulov" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
