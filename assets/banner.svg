@@ -1,0 +1,65 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#051F20"/>
+      <stop offset="40%" stop-color="#0B2B26"/>
+      <stop offset="75%" stop-color="#163832"/>
+      <stop offset="100%" stop-color="#235347"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#DAF1DE"/>
+      <stop offset="100%" stop-color="#8EB69B"/>
+    </linearGradient>
+    <linearGradient id="pillGrad" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#051F20"/>
+      <stop offset="25%" stop-color="#0B2B26"/>
+      <stop offset="50%" stop-color="#163832"/>
+      <stop offset="70%" stop-color="#235347"/>
+      <stop offset="88%" stop-color="#8EB69B"/>
+      <stop offset="100%" stop-color="#DAF1DE"/>
+    </linearGradient>
+    <filter id="blurA" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- soft glow blobs -->
+  <circle cx="980" cy="60" r="140" fill="#8EB69B" opacity="0.18" filter="url(#blurA)">
+    <animate attributeName="cy" values="60;90;60" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1120" cy="250" r="120" fill="#DAF1DE" opacity="0.12" filter="url(#blurA)">
+    <animate attributeName="cx" values="1120;1080;1120" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- signature stacked pill motif, echoing the palette reference -->
+  <g transform="translate(900,40)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="260" height="34" rx="17" fill="#051F20"/>
+    <rect x="0" y="38" width="230" height="34" rx="17" fill="#0B2B26"/>
+    <rect x="0" y="76" width="200" height="34" rx="17" fill="#163832"/>
+    <rect x="0" y="114" width="170" height="34" rx="17" fill="#235347"/>
+    <rect x="0" y="152" width="140" height="34" rx="17" fill="#8EB69B"/>
+    <rect x="0" y="190" width="110" height="34" rx="17" fill="#DAF1DE"/>
+  </g>
+
+  <!-- accent line -->
+  <rect x="80" y="118" width="64" height="6" rx="3" fill="#8EB69B"/>
+
+  <!-- name -->
+  <text x="80" y="108" font-family="'Segoe UI', 'Poppins', sans-serif" font-size="64" font-weight="700" fill="url(#nameGrad)">AZAMQULOV</text>
+
+  <!-- subtitle -->
+  <text x="80" y="160" font-family="'Segoe UI', sans-serif" font-size="21" fill="#8EB69B" opacity="0.95">Full-Stack Developer · UI/UX Designer</text>
+  <text x="80" y="192" font-family="'Segoe UI', sans-serif" font-size="16" fill="#DAF1DE" opacity="0.65">Desktop AI Agents · Chrome Extensions · Web</text>
+
+  <!-- location / status chip -->
+  <g transform="translate(80,220)">
+    <rect x="0" y="0" width="230" height="34" rx="17" fill="#0B2B26" stroke="#235347" stroke-width="1"/>
+    <circle cx="20" cy="17" r="5" fill="#8EB69B"/>
+    <text x="34" y="22" font-family="'Segoe UI', sans-serif" font-size="13" fill="#DAF1DE">Surxondaryo, O'zbekiston</text>
+  </g>
+</svg>
