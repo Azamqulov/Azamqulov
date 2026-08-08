@@ -1,142 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Azamqulov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Azamqulov banner"/>
 
-<p>
-  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇿_UZ-8B5CF6?style=for-the-badge" /></a>
-  <a href="README.ru.md"><img src="https://img.shields.io/badge/🇷🇺_RU-2d2d2d?style=for-the-badge" /></a>
-  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧_EN-2d2d2d?style=for-the-badge" /></a>
-</p>
+<br><br>
 
-<a href="https://github.com/Azamqulov">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Salom,+men+Azamqulov+%F0%9F%91%8B;Freelance+Developer+%26+UI%2FUX+Designer;Desktop+%2B+Web+%2B+Chrome+Extension+quraman;Tauri+%2B+Rust+%2B+Vue+%2B+React+bilan+ishlayman;Doim+yangi+narsa+o%CA%BErganaman+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=8B5CF6&vCenter=true&size=22&pause=1500"/>
-</a>
+<a href="README.md"><img src="https://img.shields.io/badge/🇺🇿_UZ-8EB69B?style=for-the-badge&labelColor=051F20" /></a>
+<a href="README.ru.md"><img src="https://img.shields.io/badge/🇷🇺_RU-163832?style=for-the-badge&labelColor=051F20" /></a>
+<a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧_EN-163832?style=for-the-badge&labelColor=051F20" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Azamqulov&label=Profil+tashrifi&color=8B5CF6&style=flat" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Salom,+men+Azamqulov+%F0%9F%91%8B;Freelance+Developer+%26+UI%2FUX+Designer;Desktop+%2B+Web+%2B+Chrome+Extension+quraman;Tauri+%2B+Rust+%2B+Vue+%2B+React+bilan+ishlayman&font=Fira+Code&center=true&width=640&height=45&color=8EB69B&vCenter=true&size=20&pause=1600" />
+
+<img src="https://komarev.com/ghpvc/?username=Azamqulov&label=Profil+tashrifi&color=235347&style=for-the-badge&labelColor=051F20" />
 
 </div>
 
-<br>
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik/main/gifs/1.gif">
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🧑‍💻 Men haqimda
 
-- 🔭 Hozirda **desktop AI agent** va **Chrome extension**lar ustida ishlayapman
-- 🌱 Chuqurlashtirib o'rganyapman: **Rust**, **Tauri 2**, **Supabase**
-- 💡 Mutaxassislik: zamonaviy, harakatli (motion-rich) UI/UX dizayn
-- 🌍 O'zbekiston / Markaziy Osiyo bozori uchun mahsulotlar yarataman
-- ⚡ Multi-agent AI workflow (**Antigravity**) orqali ishlayman
-- 📫 Menga yozing: **azamqulov0102@gmail.com**
-- 🎯 2026 maqsad: mustahkam, real foydalanuvchisi bor mahsulot chiqarish
+Frilanser dasturchi va UI/UX dizayner — O'zbekiston/Markaziy Osiyo bozori uchun **desktop, web va Chrome extension** mahsulotlar quraman. Vizual jihatdan harakatli (motion-rich), zamonaviy interfeyslarga ixtisoslashganman va o'z multi-agent AI workflow tizimim (**Antigravity**) orqali ishlayman.
 
-<br clear="both">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Hozir ustida ishlayapman**
+Desktop AI agent va Chrome extension'lar
+
+**🌱 Chuqurlashtirib o'rganyapman**
+Rust · Tauri 2 · Supabase
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 2026 maqsad**
+Real foydalanuvchisi bor, mustahkam mahsulot
+
+**📫 Bog'lanish**
+azamqulov0102@gmail.com
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%"/>
+
+## 🚀 Hozir quryapman
+
+<div align="center">
+<img src="assets/now-building.svg" width="100%" alt="Now building"/>
+</div>
+
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🛠️ Texnologiyalar
 
 <div align="center">
 
-### Tillar
-<img src="https://skillicons.dev/icons?i=py,php,js,ts,rust,html,css&theme=dark" />
+**Tillar**
+<br>
+<img src="https://img.shields.io/badge/Python-051F20?style=for-the-badge&logo=python&logoColor=8EB69B" />
+<img src="https://img.shields.io/badge/PHP-051F20?style=for-the-badge&logo=php&logoColor=8EB69B" />
+<img src="https://img.shields.io/badge/JavaScript-051F20?style=for-the-badge&logo=javascript&logoColor=8EB69B" />
+<img src="https://img.shields.io/badge/TypeScript-051F20?style=for-the-badge&logo=typescript&logoColor=8EB69B" />
+<img src="https://img.shields.io/badge/Rust-051F20?style=for-the-badge&logo=rust&logoColor=8EB69B" />
 
-### Desktop & Frontend
-<img src="https://skillicons.dev/icons?i=tauri,vue,react,electron,tailwind&theme=dark" />
+<br><br>
 
-### Backend & Ma'lumotlar bazasi
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres&theme=dark" />
+**Desktop & Frontend**
+<br>
+<img src="https://img.shields.io/badge/Tauri-0B2B26?style=for-the-badge&logo=tauri&logoColor=DAF1DE" />
+<img src="https://img.shields.io/badge/Vue.js-0B2B26?style=for-the-badge&logo=vuedotjs&logoColor=DAF1DE" />
+<img src="https://img.shields.io/badge/React-0B2B26?style=for-the-badge&logo=react&logoColor=DAF1DE" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B2B26?style=for-the-badge&logo=tailwindcss&logoColor=DAF1DE" />
 
-### AI & Vositalar
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+<br><br>
+
+**Backend & Ma'lumotlar bazasi**
+<br>
+<img src="https://img.shields.io/badge/Node.js-163832?style=for-the-badge&logo=nodedotjs&logoColor=8EB69B" />
+<img src="https://img.shields.io/badge/Supabase-163832?style=for-the-badge&logo=supabase&logoColor=8EB69B" />
+<img src="https://img.shields.io/badge/Firebase-163832?style=for-the-badge&logo=firebase&logoColor=8EB69B" />
+<img src="https://img.shields.io/badge/PostgreSQL-163832?style=for-the-badge&logo=postgresql&logoColor=8EB69B" />
+
+<br><br>
+
+**AI & Vositalar**
+<br>
+<img src="https://img.shields.io/badge/Git-235347?style=for-the-badge&logo=git&logoColor=DAF1DE" />
+<img src="https://img.shields.io/badge/GitHub-235347?style=for-the-badge&logo=github&logoColor=DAF1DE" />
+<img src="https://img.shields.io/badge/Figma-235347?style=for-the-badge&logo=figma&logoColor=DAF1DE" />
+<img src="https://img.shields.io/badge/VS_Code-235347?style=for-the-badge&logo=visualstudiocode&logoColor=DAF1DE" />
 
 </div>
 
-<br>
-
-## 🚀 Ajratib ko'rsatilgan loyihalar
-
-<div align="center">
-
-<a href="https://github.com/Azamqulov/ai-bot">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Azamqulov&repo=ai-bot&theme=tokyonight&border_color=8B5CF6&hide_border=false" />
-</a>
-
-</div>
-
-> 🤖 **Jarvis AI** — Tauri 2 + Rust + Ollama asosida qurilgan Windows desktop AI agent. OS darajasida to'liq boshqaruv: dastur ochish, Telegram xabar yuborish, ovoz balandligi, musiqa, hujjat yaratish.
-
-<br>
+<img src="assets/divider.svg" width="100%"/>
 
 ## 📊 GitHub statistikam
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Azamqulov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamqulov&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Azamqulov&show_icons=true&hide_border=true&count_private=true&border_radius=16&bg_color=0B2B26&title_color=DAF1DE&icon_color=8EB69B&text_color=8EB69B" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamqulov&layout=compact&hide_border=true&border_radius=16&bg_color=0B2B26&title_color=DAF1DE&icon_color=8EB69B&text_color=8EB69B" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azamqulov&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Azamqulov&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azamqulov&hide_border=true&border_radius=16&background=0B2B26&ring=8EB69B&fire=8EB69B&currStreakLabel=DAF1DE&sideLabels=8EB69B&currStreakNum=DAF1DE&sideNums=DAF1DE&dates=6B9080" />
 
 </div>
 
-<br>
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🕸️ Faollik grafigi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azamqulov&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azamqulov&hide_border=true&bg_color=0B2B26&color=8EB69B&line=8EB69B&point=DAF1DE&area=true&area_color=235347" width="100%"/>
 
 </div>
 
-<br>
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Azamqulov/Azamqulov/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>⚙️ Ishga tushirish uchun pastdagi "Qo'shimcha sozlash" bo'limiga qarang</sub>
+<img src="https://raw.githubusercontent.com/Azamqulov/Azamqulov/output/snake.svg" width="100%" />
 
 </div>
 
-<br>
-
-## 💬 Kunning iqtibosi
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<br>
+<img src="assets/divider.svg" width="100%"/>
 
 ## 🌐 Bog'lanish
 
 <div align="center">
 
 <a href="mailto:azamqulov0102@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-0B2B26?style=for-the-badge&logo=gmail&logoColor=DAF1DE" />
 </a>
 <a href="https://github.com/Azamqulov">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0B2B26?style=for-the-badge&logo=github&logoColor=DAF1DE" />
 </a>
 <a href="https://t.me/Musurmon_dev">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-0B2B26?style=for-the-badge&logo=telegram&logoColor=DAF1DE" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+<sub>Har bir piksel qo'lda moslashtirilgan 🌿</sub>
+</div>
