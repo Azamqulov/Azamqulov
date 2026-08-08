@@ -12,7 +12,66 @@ You can click the Preview link to take a look at your changes.
     <h2>Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
     I'm Azamqulov Musurmon, Frontend Developer 💻
     <br>
-    <br>
+    <br><div align="center">
+
+# 👋 Hey, I'm Azamqulov
+
+### 💻 Developer • Problem Solver • Lifelong Learner
+
+<p>
+  <em>Turning ideas into clean, functional and modern digital experiences.</em>
+</p>
+
+<br>
+
+<a href="mailto:azamqulov0102@gmail.com">
+  <img src="https://img.shields.io/badge/Email-azamqulov0102%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a developer who enjoys **building things with code, learning new technologies, and turning ideas into real projects.**
+
+- 💻 Interested in **software development & web technologies**
+- 🌱 Currently learning **Python & PHP**
+- 🧠 Always exploring new tools, frameworks and better ways to write code
+- 🛠️ I enjoy building projects from scratch
+- 🎯 Focused on continuous improvement
+- ⚡ Fun fact: I believe the best way to learn programming is to build something real
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+████████████░░░░░░░░ 60%
+
+PHP
+██████████░░░░░░░░░░ 50%
+
+Web Development
+██████████████░░░░░░ 70%
     <img src="./coder.gif" alt="Coder" width="350">
  </div>
 </h2> 
