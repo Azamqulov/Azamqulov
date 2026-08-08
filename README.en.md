@@ -3,16 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Azamqulov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
 <p>
-  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇿_UZ-8B5CF6?style=for-the-badge" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇿_UZ-2d2d2d?style=for-the-badge" /></a>
   <a href="README.ru.md"><img src="https://img.shields.io/badge/🇷🇺_RU-2d2d2d?style=for-the-badge" /></a>
-  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧_EN-2d2d2d?style=for-the-badge" /></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧_EN-8B5CF6?style=for-the-badge" /></a>
 </p>
 
 <a href="https://github.com/Azamqulov">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Salom,+men+Azamqulov+%F0%9F%91%8B;Freelance+Developer+%26+UI%2FUX+Designer;Desktop+%2B+Web+%2B+Chrome+Extension+quraman;Tauri+%2B+Rust+%2B+Vue+%2B+React+bilan+ishlayman;Doim+yangi+narsa+o%CA%BErganaman+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=8B5CF6&vCenter=true&size=22&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Azamqulov+%F0%9F%91%8B;Freelance+Developer+%26+UI%2FUX+Designer;I+build+Desktop+%2B+Web+%2B+Chrome+Extensions;Working+with+Tauri+%2B+Rust+%2B+Vue+%2B+React;Always+learning+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=8B5CF6&vCenter=true&size=22&pause=1500"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Azamqulov&label=Profil+tashrifi&color=8B5CF6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Azamqulov&label=Profile+Views&color=8B5CF6&style=flat" />
 
 </div>
 
@@ -20,39 +20,39 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik/main/gifs/1.gif">
 
-## 🧑‍💻 Men haqimda
+## 🧑‍💻 About Me
 
-- 🔭 Hozirda **desktop AI agent** va **Chrome extension**lar ustida ishlayapman
-- 🌱 Chuqurlashtirib o'rganyapman: **Rust**, **Tauri 2**, **Supabase**
-- 💡 Mutaxassislik: zamonaviy, harakatli (motion-rich) UI/UX dizayn
-- 🌍 O'zbekiston / Markaziy Osiyo bozori uchun mahsulotlar yarataman
-- ⚡ Multi-agent AI workflow (**Antigravity**) orqali ishlayman
-- 📫 Menga yozing: **azamqulov0102@gmail.com**
-- 🎯 2026 maqsad: mustahkam, real foydalanuvchisi bor mahsulot chiqarish
+- 🔭 Currently working on a **desktop AI agent** and **Chrome extensions**
+- 🌱 Deep-diving into: **Rust**, **Tauri 2**, **Supabase**
+- 💡 Specialty: modern, motion-rich UI/UX design
+- 🌍 Building products for the Uzbekistan / Central Asia market
+- ⚡ Working through a multi-agent AI workflow (**Antigravity**)
+- 📫 Reach me at: **azamqulov0102@gmail.com**
+- 🎯 2026 goal: ship a solid product with real users
 
 <br clear="both">
 
-## 🛠️ Texnologiyalar
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Tillar
+### Languages
 <img src="https://skillicons.dev/icons?i=py,php,js,ts,rust,html,css&theme=dark" />
 
 ### Desktop & Frontend
 <img src="https://skillicons.dev/icons?i=tauri,vue,react,electron,tailwind&theme=dark" />
 
-### Backend & Ma'lumotlar bazasi
+### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres&theme=dark" />
 
-### AI & Vositalar
+### AI & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 
 </div>
 
 <br>
 
-## 🚀 Ajratib ko'rsatilgan loyihalar
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -62,11 +62,11 @@
 
 </div>
 
-> 🤖 **Jarvis AI** — Tauri 2 + Rust + Ollama asosida qurilgan Windows desktop AI agent. OS darajasida to'liq boshqaruv: dastur ochish, Telegram xabar yuborish, ovoz balandligi, musiqa, hujjat yaratish.
+> 🤖 **Jarvis AI** — a Windows desktop AI agent built with Tauri 2 + Rust + Ollama. Full OS-level control: opening apps, sending Telegram messages, volume control, playing music, creating documents.
 
 <br>
 
-## 📊 GitHub statistikam
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -91,7 +91,7 @@
 
 <br>
 
-## 🕸️ Faollik grafigi
+## 🕸️ Activity Graph
 
 <div align="center">
 
@@ -107,13 +107,13 @@
 
 <img src="https://raw.githubusercontent.com/Azamqulov/Azamqulov/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>⚙️ Ishga tushirish uchun pastdagi "Qo'shimcha sozlash" bo'limiga qarang</sub>
+<sub>⚙️ See the "Extra Setup" section below to enable this</sub>
 
 </div>
 
 <br>
 
-## 💬 Kunning iqtibosi
+## 💬 Quote of the Day
 
 <div align="center">
 
@@ -123,7 +123,7 @@
 
 <br>
 
-## 🌐 Bog'lanish
+## 🌐 Connect With Me
 
 <div align="center">
 
