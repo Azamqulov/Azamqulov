@@ -1,104 +1,102 @@
-- 👋 Hi, I’m @Azamqulov
-- 👀 I’m interested in Write code
-- 🌱 I’m currently learning Python, PHP
-- 📫 How to reach me azamqulov0102@gmail.com
+<div align="center">
 
-<!---
-Azamqulov/Azamqulov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h2 align="left">
- <div>
-    <h2>Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-    I'm Azamqulov Musurmon, Frontend Developer 💻
-    <br>
-    <br><div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Azamqulov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
-# 👋 Hey, I'm Azamqulov
-
-### 💻 Developer • Problem Solver • Lifelong Learner
-
-<p>
-  <em>Turning ideas into clean, functional and modern digital experiences.</em>
-</p>
-
-<br>
-
-<a href="mailto:azamqulov0102@gmail.com">
-  <img src="https://img.shields.io/badge/Email-azamqulov0102%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/Azamqulov">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Salom,+men+Azamqulov+%F0%9F%91%8B;Freelance+Developer+%26+UI%2FUX+Designer;Desktop+%2B+Web+%2B+Chrome+Extension+quraman;Tauri+%2B+Rust+%2B+Vue+%2B+React+bilan+ishlayman;Doim+yangi+narsa+o%CA%BErganaman+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=8B5CF6&vCenter=true&size=22&pause=1500"/>
 </a>
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik/main/gifs/1.gif">
 
-I'm a developer who enjoys **building things with code, learning new technologies, and turning ideas into real projects.**
+## 🧑‍💻 Men haqimda
 
-- 💻 Interested in **software development & web technologies**
-- 🌱 Currently learning **Python & PHP**
-- 🧠 Always exploring new tools, frameworks and better ways to write code
-- 🛠️ I enjoy building projects from scratch
-- 🎯 Focused on continuous improvement
-- ⚡ Fun fact: I believe the best way to learn programming is to build something real
+- 🔭 Hozirda **desktop AI agent** va **Chrome extension**lar ustida ishlayapman
+- 🌱 Chuqurlashtirib o'rganyapman: **Rust**, **Tauri 2**, **Supabase**
+- 💡 Mutaxassislik: zamonaviy, harakatli (motion-rich) UI/UX dizayn
+- 🌍 O'zbekiston / Markaziy Osiyo bozori uchun mahsulotlar yarataman
+- ⚡ Multi-agent AI workflow (**Antigravity**) orqali ishlayman
+- 📫 Menga yozing: **azamqulov0102@gmail.com**
+- 🎯 2026 maqsad: mustahkam, real foydalanuvchisi bor mahsulot chiqarish
 
----
+<br clear="both">
 
-## 🧰 Tech Stack
+## 🛠️ Texnologiyalar
 
-### 💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
-</p>
+### Tillar
+<img src="https://skillicons.dev/icons?i=py,php,js,ts,rust,html,css&theme=dark" />
 
-### 🛠️ Tools & Technologies
+### Desktop & Frontend
+<img src="https://skillicons.dev/icons?i=tauri,vue,react,electron,tailwind&theme=dark" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+### Backend & Ma'lumotlar bazasi
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres&theme=dark" />
 
----
+### AI & Vositalar
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 
-## 📚 Currently Learning
+</div>
 
-```text
-Python
-████████████░░░░░░░░ 60%
+<br>
 
-PHP
-██████████░░░░░░░░░░ 50%
+## 🚀 Ajratib ko'rsatilgan loyihalar
 
-Web Development
-██████████████░░░░░░ 70%
-    <img src="./coder.gif" alt="Coder" width="350">
- </div>
-</h2> 
-<h2 align="left">Technologies and Tools I use 🛠</h2>
-<p align="left"  height="80">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="react" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/design/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/jquery_logo.svg" alt="jquery" width="40" height="40"/> </a>
-    </p>
+<div align="center">
 
-<h2 align="left">About Me 👨🏻‍💻</h2>
+<a href="https://github.com/Azamqulov/ai-bot">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Azamqulov&repo=ai-bot&theme=tokyonight&border_color=8B5CF6&hide_border=false" />
+</a>
 
-<p>I’m currently improving my knowledge and skills in React and vue</p>
-<p>Also I am looking for a job as a frontend developer</p>
+</div>
 
-<h2 align="left">My CV 📄</h2>
+> 🤖 **Jarvis AI** — Tauri 2 + Rust + Ollama asosida qurilgan Windows desktop AI agent. OS darajasida to'liq boshqaruv: dastur ochish, Telegram xabar yuborish, ovoz balandligi, musiqa, hujjat yaratish.
 
-<p>You can find my CV <a  href="https://github.com/Azamqulov/my-resume/blob/f3f593c8b657f7b63139d9d9b1316392140d36bc/my%20resume.pdf">here</a></p>
+<br>
 
-<h2 align="left">Let's get connected ❤️</h2>
+## 📊 GitHub statistikam
 
-<a href="mailto:azamqulovmusurmon@gmail.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/musurmon-azamqulov-9b6000326" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/@azamqulov_1/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/@azamqulov" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Azamqulov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamqulov&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azamqulov&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<br>
+
+## 🕸️ Faollik grafigi
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azamqulov&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<br>
+
+## 🌐 Bog'lanish
+
+<div align="center">
+
+<a href="mailto:azamqulov0102@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Azamqulov">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://t.me/">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
